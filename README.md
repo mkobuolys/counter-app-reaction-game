@@ -1,6 +1,8 @@
-# Counter App Reaction Game - #FlutterCounterChallenge2020
+# Flutter Counter App Reaction Game - #FlutterCounterChallenge2020
 
 A simple reaction game built on top of the default Flutter Counter App.
+
+<img src="media/reaction-game.gif" alt="Counter App Reaction Game" width="320">
 
 ## Building
 
